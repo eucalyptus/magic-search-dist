@@ -1,0 +1,14 @@
+{
+  "name": "angular-magic-search",
+  "version": "0.1.0",
+  "author": "David Kavanagh <dkavanagh@gmail.com>",
+  "main": [
+    "magic-search.js",
+    "magic-search.html",
+    "magic-search.css"
+  ],
+  "dependencies": {
+    "angular": ">= 1.2.0"
+  }
+}
+
