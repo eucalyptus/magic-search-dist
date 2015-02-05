@@ -5,7 +5,7 @@
   "main": [
     "magic-search.js",
     "magic-search.html",
-    "magic-search.css"
+    "magic-search.css",
     "magic-search.scss"
   ],
   "dependencies": {
